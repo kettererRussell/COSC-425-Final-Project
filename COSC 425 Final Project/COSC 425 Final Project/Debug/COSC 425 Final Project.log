@@ -1,0 +1,18 @@
+﻿  COSC425FinalProject.cpp
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(228): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(228): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(229): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(229): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(539): warning C4018: '<': signed/unsigned mismatch
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(543): warning C4018: '<': signed/unsigned mismatch
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(639): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1011): warning C4018: '<': signed/unsigned mismatch
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1065): warning C4018: '<': signed/unsigned mismatch
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1218): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1236): warning C4018: '<': signed/unsigned mismatch
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1270): warning C4018: '<': signed/unsigned mismatch
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1275): warning C4018: '<': signed/unsigned mismatch
+c:\users\russk\documents\visual studio 2017\projects\cosc 425\cosc 425 final project\cosc 425 final project\cosc425finalproject.cpp(1395): warning C4018: '<': signed/unsigned mismatch
+  COSC 425 Final Project.vcxproj -> C:\Users\russk\Documents\Visual Studio 2017\Projects\COSC 425\COSC 425 Final Project\Debug\COSC 425 Final Project.exe
+  COSC 425 Final Project.vcxproj -> C:\Users\russk\Documents\Visual Studio 2017\Projects\COSC 425\COSC 425 Final Project\Debug\COSC 425 Final Project.pdb (Partial PDB)

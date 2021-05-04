@@ -1,0 +1,28 @@
+﻿  COSC425FinalProject.cpp
+COSC425FinalProject.cpp(210): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+COSC425FinalProject.cpp(210): warning C4305: 'initializing': truncation from 'double' to 'float'
+COSC425FinalProject.cpp(211): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+COSC425FinalProject.cpp(211): warning C4305: 'initializing': truncation from 'double' to 'float'
+COSC425FinalProject.cpp(395): warning C4018: '<': signed/unsigned mismatch
+COSC425FinalProject.cpp(399): warning C4018: '<': signed/unsigned mismatch
+COSC425FinalProject.cpp(586): warning C4018: '<': signed/unsigned mismatch
+COSC425FinalProject.cpp(706): warning C4018: '<': signed/unsigned mismatch
+COSC425FinalProject.cpp(764): warning C4018: '<': signed/unsigned mismatch
+COSC425FinalProject.cpp(769): warning C4018: '<': signed/unsigned mismatch
+COSC425FinalProject.cpp(823): warning C4018: '<': signed/unsigned mismatch
+  Demon.cpp
+Demon.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Laser.cpp
+  SpaceShip.cpp
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  98 of 818 functions (12.0%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    41 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\russk\Documents\Visual Studio 2017\Projects\COSC 425\COSC 425 Final Project\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\russk\Documents\Visual Studio 2017\Projects\COSC 425\COSC 425 Final Project\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\russk\Documents\Visual Studio 2017\Projects\COSC 425\COSC 425 Final Project\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(wfETC.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(wfETC.obj)' or at 'C:\Users\russk\Documents\Visual Studio 2017\Projects\COSC 425\COSC 425 Final Project\Release\soil2-debug.pdb'; linking object as if no debug info
+  COSC 425 Final Project.vcxproj -> C:\Users\russk\Documents\Visual Studio 2017\Projects\COSC 425\COSC 425 Final Project\Release\COSC 425 Final Project.exe
